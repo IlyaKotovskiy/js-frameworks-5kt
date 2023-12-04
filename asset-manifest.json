@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/js-frameworks-5kt/static/css/main.ab6a830a.css",
+    "main.js": "/js-frameworks-5kt/static/js/main.c3ddff56.js",
+    "index.html": "/js-frameworks-5kt/index.html",
+    "main.ab6a830a.css.map": "/js-frameworks-5kt/static/css/main.ab6a830a.css.map",
+    "main.c3ddff56.js.map": "/js-frameworks-5kt/static/js/main.c3ddff56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6a830a.css",
+    "static/js/main.c3ddff56.js"
+  ]
+}
